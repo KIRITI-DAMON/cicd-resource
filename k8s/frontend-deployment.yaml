@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: cicd-frontend
-          image: bhanuteja110/cicd-frontend:latest
+          image: damon999/cicd-frontend:latest
           ports:
             - containerPort: 80
 ---
