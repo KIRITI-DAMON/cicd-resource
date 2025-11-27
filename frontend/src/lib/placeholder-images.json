@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image-1",
+      "description": "A professional working on a laptop at a clean desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW8lMjB3ZWJzaXRlJTIwaGVyb3xlbnwwfHx8fDE3MjE4OTM0MTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "desk workspace"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar for a portfolio owner.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhZG1pbmlzdHJhdG9yJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzIxODkyNTYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar for a female professional.",
+      "imageUrl": "https://images.unsplash.com/photo-1523264653568-d3d4032d1475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmZW1hbGUlMjBzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzIxODkyNjE0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar for a male professional.",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWxlJTIwc3R1ZGVudCUyMHBvcnRyYWl0fGVufDB8fHx8MTcyMTg5MjYxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Avatar for another female professional.",
+      "imageUrl": "https://images.unsplash.com/photo-1509423350717-c7803d2594b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmZW1hbGUlMjBzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzIxODkyNjE0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-5",
+      "description": "Avatar for a professional contact.",
+      "imageUrl": "https://images.unsplash.com/photo-1573166953836-06864dc70a21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFjaGVyJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzIxODkyNzMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "professional portrait"
+    }
+  ]
+}
